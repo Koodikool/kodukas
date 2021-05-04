@@ -3,3 +3,9 @@ body {
   font-family: Courier;
   color: darkblue;
 }
+
+img {
+  width: 300px;
+  margin: auto;
+  display: block;
+}
