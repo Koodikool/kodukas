@@ -8,4 +8,7 @@ img {
   width: 300px;
   margin: auto;
   display: block;
+  border-style: dashed;
+  border-width: 10px;
+  border-color: blue;
 }
